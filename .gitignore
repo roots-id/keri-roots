@@ -1,0 +1,15 @@
+__pycache__
+venv/
+env/
+.env
+.venv
+.ipynb_checkpoints/
+.vscode/
+.idea/*
+build/
+dist/
+target/
+Pipfile
+Pipfile.lock
+.DS_Store
+*-workspace
