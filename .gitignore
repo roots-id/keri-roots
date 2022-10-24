@@ -13,3 +13,6 @@ Pipfile
 Pipfile.lock
 .DS_Store
 *-workspace
+.python-version
+*.skey
+*.vkey

@@ -1,0 +1,2 @@
+pycardano
+blockfrost-python
